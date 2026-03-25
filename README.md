@@ -1,5 +1,27 @@
 ## Books Store
 ----------------------------
+## 🛠️ Technologies & Tools Used
+
+| Layer       | Type                   | Tool / Framework                      |
+|------------|-----------------------|--------------------------------------|
+| Repository | Integration Testing    | Spring Data JPA (`@DataJpaTest`)     |
+| Service    | Unit Testing           | JUnit 5 + Mockito                     |
+| Controller | Integration Testing    | Spring MVC Test Framework             |
+| UI         | End-to-End Testing     | Playwright                            |
+| Coverage   | Coverage Report        | JaCoCo                                |
+
+## 2. Test Strategy and Coverage
+
+### 2.1. Testing Strategy
+The project implements a **multi-layered testing strategy** based on the **Testing Pyramid** concept.  
+Tests are distributed across different layers to ensure **high coverage** and **application stability**.
+
+### 2.2. Code Coverage Analysis
+**JaCoCo** is used to measure code coverage.  
+Below is the report providing an overview of test coverage across all layers of the application:
+![Coverage](img/coverage.png)
+
+
 
 - ### Sign Up Page
     ![Sign Up Page](img/Screenshot%202022-04-25%20163015.png "Sign Up Page")
