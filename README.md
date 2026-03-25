@@ -1,6 +1,6 @@
-## Books Store
+## Books Store Application Testing
 ----------------------------
-## 🛠️ Technologies & Tools Used
+## 🛠️ 1. Technologies & Tools Used
 
 | Layer       | Type                   | Tool / Framework                      |
 |------------|-----------------------|--------------------------------------|
