@@ -1,7 +1,4 @@
-## Books Store (UTS Praktikum)
---------------------------
-  🚀 Deployed at : [https://books-store07.herokuapp.com/](https://books-store07.herokuapp.com/)
-
+## Books Store
 ----------------------------
 
 - ### Sign Up Page
